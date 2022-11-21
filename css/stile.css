@@ -1,3 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+header, main, aside, article{
+    background-color: white;
+    border-radius: 5px;
+}
 body{
-    background-image: url(zela2000.github.io/canzoniere/immagini/sfondo/sfondo.png);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+}
+ul,
+ol,
+dl,
+p {
+  font-size: 1.4rem;
+}
+aside{
+    width: 69%;
+    float: left;
+}
+article{
+    width: 29%;
+    float: right;
+}
+h1{
+    margin: 10px;
 }
