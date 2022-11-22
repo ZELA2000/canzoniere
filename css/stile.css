@@ -26,3 +26,18 @@ article{
 h1{
     margin: 10px;
 }
+#not-found-p{
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    top: 35%;
+    left:25%;
+    width: 45%;
+}
+#not-found-div{
+    background-color: white;
+    border-radius:0px 0px 5px 5px;
+    position: absolute;
+    width: 25%;
+    font-size: 15px;
+}
