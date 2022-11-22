@@ -41,21 +41,3 @@ h1{
     width: 25%;
     font-size: 15px;
 }
-@media only screen and (max-width: 1000px) {
-    #not-found-p{
-        background-color: white;
-        border-radius: 10px;
-        position: absolute;
-        top: 35%;
-        left:25%;
-        width: 55%;
-        font-size: 15px;
-    }
-    #not-found-div{
-        background-color: white;
-        border-radius:0px 0px 5px 5px;
-        position: absolute;
-        width: 30%;
-        font-size: 10px;
-    }
-}
